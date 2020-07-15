@@ -1,0 +1,1 @@
+~/ABdarknet/darknet/darknet detector test ./cfg/obj.data ./cfg/yolov3-tiny.cfg ./weights/yolov3-tiny.backup -dont_show -ext_output < ./train_a.txt > result.txt

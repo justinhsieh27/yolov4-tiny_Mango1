@@ -1,0 +1,2 @@
+~/darknet/darknet detector demo ~/yolo/Mango1/cfg/coco.data ./cfg/yolov4-custom.cfg ./weights/yolov4-custom_last.weights
+

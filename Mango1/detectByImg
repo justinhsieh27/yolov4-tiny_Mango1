@@ -1,0 +1,1 @@
+~/darknet/darknet detect ./cfg/yolov3-tiny.cfg ./weights/yolov3-tiny.backup ./Yolos/D-Plant2_0610_43.jpg

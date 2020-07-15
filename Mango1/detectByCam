@@ -1,0 +1,2 @@
+~/darknet/darknet detector demo ~/Yolo/Meerkat/cfg/coco.data ./cfg/yolov3-tiny.cfg ./weights/yolov3-tiny_70000.weights
+

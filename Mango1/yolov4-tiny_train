@@ -1,0 +1,2 @@
+~/darknet/darknet detector train ./cfg/obj.data ./cfg/yolov4-tiny-obj.cfg yolov4-tiny.conv.29 -dont_show
+

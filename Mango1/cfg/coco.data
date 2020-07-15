@@ -1,0 +1,8 @@
+classes= 1
+train  = ./cfg/train.txt
+valid  = ./cfg/test.txt
+#valid = data/coco_val_5k.list
+names = ./cfg/obj.names
+backup = ./weights
+eval=coco
+
